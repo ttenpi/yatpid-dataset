@@ -1,0 +1,38 @@
+[semantic]
+name.en = "semantic"
+name.nl = "semantisch"
+order = ["body", "people", "necessities", "critters", "sight", "state", "activity", "elements", "things", "ideas", "locating", "descriptions", "counting", "connection", "evoke"]
+description.en = "Categories of words grouped by themes or semantic fields"
+description.nl = "Categorieën van woorden gegroepeerd op thema of semantische velden"
+
+[semantic.labels.en]
+activity = "activity"
+body = "body"
+connection = "connection"
+counting = "counting"
+critters = "critters"
+descriptions = "descriptions"
+elements = "elements"
+evoke = "evoke"
+ideas = "ideas"
+locating = "locating"
+people = "people"
+sight = "sight"
+state = "state"
+things = "things"
+
+[semantic.labels.nl]
+activity = "activiteit"
+body = "lichaam"
+connection = "verbinding"
+counting = "tellen"
+critters = "wezens"
+descriptions = "beschrijvingen"
+elements = "elementen"
+evoke = "uitroep"
+ideas = "ideeën"
+locating = "plaatsbepaling"
+people = "personen"
+sight = "zicht"
+state = "toestand"
+things = "dingen"

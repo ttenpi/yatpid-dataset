@@ -1,0 +1,18 @@
+[usage]
+name.en = "usage"
+name.nl = "gebruik"
+order = ["core", "common", "uncommon", "obscure"]
+description.en = "Usage categories by lipu Linku"
+description.nl = "Gebruikscategorieën per lipu Linku"
+
+[usage.labels.en]
+core = "core"
+common = "common"
+uncommon = "uncommon"
+obscure = "obscure"
+
+[usage.labels.nl]
+core = "kern"
+common = "gebruikelijk"
+uncommon = "ongebruikelijk"
+obscure = "zeldzaam"
